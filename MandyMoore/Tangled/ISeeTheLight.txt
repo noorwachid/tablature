@@ -1,3 +1,9 @@
+=====================================
+Title  = I See The Light
+Artist = Mandy Moore
+Album  = Tangled
+=====================================
+
 [Intro]
 
   G                 G                
